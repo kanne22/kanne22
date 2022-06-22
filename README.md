@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @kanne22
-- 👀 I’m interested in estudar e desenvolver meu senso computacional
-- 🌱 I’m currently learning pensamento computacional
 - 💞️ 1°A
 
 <!---
